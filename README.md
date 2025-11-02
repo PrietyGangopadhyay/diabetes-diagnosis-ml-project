@@ -7,5 +7,5 @@ All implementation, preprocessing, model training, and evaluation were performed
 
 **Course:** Btech 3rd Year 5th Semester Laboratory Project  
 **Department:** Electronics and Communication Engineering  
-**Institution:** Heritage Institute of Technology,Kolkata
+**Institution:** Heritage Institute of Technology,Kolkata  
 **Submitted by:** Priety Gangopadhyay
